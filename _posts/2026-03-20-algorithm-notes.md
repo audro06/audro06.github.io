@@ -1,11 +1,13 @@
 ---
-title: "Modern C++ 알고리즘 및 STL 정리"
+title: "C++ Study 01"
 date: 2026-03-20 00:00:00 +0900
-categories: [Algorithm]
+categories: [C++ Study]
 tags: [C++, STL, Algorithm]
 ---
 
 ryute님의 티스토리에 있는 boj길라잡이를 바탕으로 공부를 시작했다.
+
+[boj 길라잡이](https://ryute.tistory.com/33)
 
 ---
 
